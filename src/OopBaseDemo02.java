@@ -1,3 +1,5 @@
+package src;
+
 public class OopBaseDemo02 {
     public static void main(String[] args) {
         Person02 p = new Person02("小明", 12);
