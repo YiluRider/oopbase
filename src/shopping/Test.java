@@ -1,5 +1,5 @@
 package src.shopping;
-
+//购物车案例
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
