@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fb02874d-5373-4eca-a943-c6d72d5bf31b" name="Changes" comment="oopbase-hero案例">
+      <change afterPath="$PROJECT_DIR$/src/information/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/information/Server.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="34e56146-07e1-4b52-872a-3f365716dccf" />
+        <option name="url" value="git@github.com:YiluRider/oopbase.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GwgcpvRFSoB3DsuxdRoOAm2jkL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/桌面/learnner/JavaCode/NovemberStudy",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\桌面\learnner\JavaCode\oopbase\src\abstractClass" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb02874d-5373-4eca-a943-c6d72d5bf31b" name="Changes" comment="" />
+      <created>1667305143707</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667305143707</updated>
+      <workItem from="1667889592837" duration="2025000" />
+      <workItem from="1667969515937" duration="1967000" />
+      <workItem from="1667993161590" duration="1041000" />
+      <workItem from="1668043025767" duration="30000" />
+    </task>
+    <task id="LOCAL-00001" summary="new learner">
+      <created>1667306890607</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667306890607</updated>
+    </task>
+    <task id="LOCAL-00002" summary="new bird">
+      <created>1667307043832</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667307043832</updated>
+    </task>
+    <task id="LOCAL-00003" summary="oopbase-面向对象编程">
+      <created>1667399018069</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1667399018069</updated>
+    </task>
+    <task id="LOCAL-00004" summary="oopbase-继承">
+      <created>1667399903594</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1667399903594</updated>
+    </task>
+    <task id="LOCAL-00005" summary="oopbase-抽象类">
+      <created>1667401267014</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1667401267014</updated>
+    </task>
+    <task id="LOCAL-00006" summary="oopbase-抽象类">
+      <created>1667447170385</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1667447170385</updated>
+    </task>
+    <task id="LOCAL-00007" summary="oopbase-hero案例">
+      <created>1667572893940</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1667572893940</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new learner" />
+    <MESSAGE value="new bird" />
+    <MESSAGE value="oopbase-面向对象编程" />
+    <MESSAGE value="oopbase-继承" />
+    <MESSAGE value="oopbase-抽象类" />
+    <MESSAGE value="oopbase-hero案例" />
+    <option name="LAST_COMMIT_MESSAGE" value="oopbase-hero案例" />
+  </component>
+</project>
