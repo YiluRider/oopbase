@@ -1,0 +1,23 @@
+# leetcode 1667
+# Write your MySQL query statement below
+select user_id,concat(upper(left(name,1)),lower(substring(name,2)))as name
+from Users
+order by user_id;
+
+# leetcode 1484
+# Write your MySQL query statement below
+select sell_date,
+    count(distinct product) as num_sold,
+    group_concat(distinct product order by product asc separator ',') as products
+from Activities
+group by sell_date
+order by sell_date
+;
+# leetcode 1527
+# Write your MySQL query statement below
+# Write your MySQL query statement below
+select * from patients
+where conditions like "DIAB1%"
+or conditions like "% DIAB1%";
+
+
